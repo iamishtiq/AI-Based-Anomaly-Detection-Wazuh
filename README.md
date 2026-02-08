@@ -4,7 +4,7 @@
 
 This project demonstrates the implementation of **AI-based anomaly detection** in a Wazuh Security Operations Center (SOC) environment using the **OpenSearch Anomaly Detection plugin**. The objective is to move beyond traditional rule-based detections and identify unusual authentication behavior using machine learning.
 
-The project was completed as **Task 4** of the **WazuGuardix SOC Internship**, focusing on hands-on implementation, attack simulation, and analysis.
+The project is focusing on hands-on implementation, attack simulation, and analysis.
 
 ---
 
